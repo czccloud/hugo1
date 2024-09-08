@@ -1,0 +1,4 @@
+public
+resource
+.hugo_build.lock
+hugo.exe
